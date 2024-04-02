@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body{
+background-color: rgb(28, 133, 224);
+font-family:Arial, Helvetica, sans-serif ;
+
+}
+h1{
+    text-align: center;
+color: rgb(74, 223, 15);
+
+}
+h1#principal{
+    text-align: center;
+    background-color: crimson;
+
+
+
+}
+h2{
+    text-align: center;
+color: chartreuse;
+
+}
+.basico{
+color: darkgreen;
+
+
+}
+.destaque{
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+background-color: blanchedalmond;
+
+}
